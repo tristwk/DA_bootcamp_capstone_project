@@ -31,3 +31,7 @@
 - Reference
     1. Berlin Neighborhood
        <img width="1036" alt="image" src="https://user-images.githubusercontent.com/109693449/191714815-1a6f4aab-c9c9-4476-bfc1-d1e63b31bf2b.png">
+    2. [H3geo](https://h3geo.org)
+    3. [EDA Video](https://www.youtube.com/watch?v=OY4eQrekQvs)
+    4. [EDA video2](https://www.youtube.com/watch?v=qxpKCBV60U4)
+    5. 
