@@ -1,6 +1,6 @@
-### Berlin Airbnb Analysis - datasets from web scrapping in 06.2022
+### Data Analytics Capstone Project
 
-- Subject: Airbnb rent price in Berlin
+- Subject: An analysis on Airbnb rent price in Berlin
 - Objective: To have a deep understanding on **rent price of Airbnb in Berlin** from a host perspective 
 - Data source: [inside airbnb](http://insideairbnb.com)
     1. two datasets: <br>
