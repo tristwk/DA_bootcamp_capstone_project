@@ -37,6 +37,7 @@
     3. Analysis: 
        - data distribution analysis (scatter plots, box plots, violn plots etc.)
        - correlation analysis
+    4. visualization: tableau 
       
 - Reference
     1. [H3geo](https://h3geo.org)
