@@ -4,12 +4,15 @@
 - Objective: To have a deep understanding on **rent price of Airbnb in Berlin** from a host perspective 
 - Data source: [inside airbnb](http://insideairbnb.com)
     1. [data dictionary](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896)
-    2. two datasets: listings and calendar of all listings for the coming 365 days
+    2. two datasets: 
+            - 16411 listings in Berlin 
+            - 365 days of the pricing of all listings in Berlin
 - Deleiverables: 
     - to anser questions:   
     Q1: What factor contributes to higher rent? 
     Q2: You have limited days to rent out your room, when is the best time period to rent it out?  
     Q3: Did hosts receive higher reviews if they go extra miles and vice versa? (e.g. to have profile pic, prompt responses etc.)
+    
     - Overview dashboard:  
         1. Overview of airbnb rent in Berlin - the outcome of EDA (maybe with a dashboard?)   
             - Rent distribution by neighborhood 
