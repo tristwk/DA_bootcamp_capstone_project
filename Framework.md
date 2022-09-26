@@ -3,10 +3,10 @@
 - Subject: Airbnb rent price in Berlin
 - Objective: To have a deep understanding on **rent price of Airbnb in Berlin** from a host perspective 
 - Data source: [inside airbnb](http://insideairbnb.com)
-    1. [data dictionary](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896)
-    2. two datasets: 
-            - 16411 listings in Berlin 
+    1. two datasets: 
+            - 16411 listings in Berlin
             - 365 days of the pricing of each listing in Berlin
+    2.[data dictionary](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896)
 - Deleiverables: 
 
     - Questions:   
