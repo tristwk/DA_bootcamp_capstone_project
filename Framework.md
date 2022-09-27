@@ -1,6 +1,6 @@
 ### Data Analytics Capstone Project
 
-- Subject: An analysis on Airbnb rent price in Berlin
+- Subject: An analysis on Airbnb rent price in Berlin based on the data accquired on June 2022
 - Objective: To have a deep understanding on **rent price of Airbnb in Berlin** from a host perspective 
 - Data source: [inside airbnb](http://insideairbnb.com)
     1. two datasets: <br>
@@ -12,8 +12,8 @@
 
     - Questions:   
         1: What factors contribute to higher rent?  
-        2: You have limited days to rent out your room, when is the best time period to rent it out based on the data from June 2022?  
-        3: Did hosts receive higher reviews if they went extra miles and vice versa? (e.g. to have profile pic, prompt responses etc.)
+        2: Did hosts receive higher reviews if they went extra miles and vice versa? (e.g. to have profile pic, prompt responses etc.)
+        3: when is the best time period to rent out the property based on the data from June 2022?  
     
     - Overview dashboard:  
         1. Overview of airbnb rent in Berlin - the outcome of EDA    
