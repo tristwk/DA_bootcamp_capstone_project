@@ -12,7 +12,7 @@
 
     - Questions:   
         1: What factors contribute to higher rent?  
-        2: Did hosts receive higher reviews if they went extra miles and vice versa? (e.g. to have profile pic, prompt responses etc.)
+        2: Did hosts receive higher reviews if they went extra miles and vice versa? (e.g. to have profile pic, prompt responses etc.)<br>
         3: when is the best time period to rent out the property based on the data from June 2022?  
     
     - Overview dashboard:  
