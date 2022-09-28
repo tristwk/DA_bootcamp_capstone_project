@@ -12,32 +12,19 @@
 
     - Questions:   
         1: What factors contribute to higher rent?  
-               - neighborhood 
-               - property type 
-               - room type
-               - accomodates
-               - bathroom: number of bathrooms, private or shared
-               - bedroom: number of bedrooms, number of beds 
-               - amenities 
+            - neighborhood  
+            - property type  
+            - property type    
+            - room type  
+            - accomodates   
+            - bathroom: number of bathrooms, private or shared  
+            - bedroom: number of bedrooms, number of beds   
+            - amenities 
                
         2: when is the best time period to rent out the property based on the data from June 2022?  
     
-    - Overview dashboard:  
-        1. Overview of airbnb rent in Berlin - the outcome of EDA    
-            - Rent distribution by neighborhood 
-            - Rent distribution by room type
-            - Rent distribution by number of bedrooms, bathrooms or beds 
-            - Rent distribution by minimum booking night
-        2. Overview of host profile & reveiws 
-            - Avg. number of listings
-            - response pattern  
-            - response time x review score 
-            - host identity x review score
-            - host pic x review score 
-            - super host x review score (super host: receiving positive reviews, being responsive and avoiding cancelations) 
-        3. Overview of reviews 
-            - Avg. scores 
-            - review scores value x neighborhood 
+    - A dashboard tool to show what price the host should charge according to the the traits of their property. 
+
 - How: 
     1. Data Cleaning  
     2. EDA
