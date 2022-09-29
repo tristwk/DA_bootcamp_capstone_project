@@ -14,7 +14,10 @@
      [ ] Check outliers: `.describe()`: investigate if its reasonable and should be kept or not. **take notes on the findings!**  
      [ ] Check values for each columns:`df['column_name'].value_counts()`   
      [ ] Drop null values or fillna()  
-     [ ] Transform data: extract a string, split columns, into booleans etc.   
+     [ ] Data Aggregation or create variables: extract a string, split columns, into booleans etc.   
      
      
-2. .query() or filtering with `df[df[_condition_]]`: ????confirm with silke
+2. .query() or filtering with `df[df[_condition_]]`: ????confirm with silke  
+
+3. Deal with null values before data aggregation or CASE(): if null values are included, the returned values could be incorrect  
+4.  
