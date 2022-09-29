@@ -1,6 +1,7 @@
 
-#### My takeaways
+### Takeaways 
 
+#### Data Cleaning
 1. Set up a flow/SOP for Data cleaning process:   
      [ ] import pandas or other packages  
      [ ] import data  
@@ -16,3 +17,4 @@
      [ ] Transform data: extract a string, split columns, into booleans etc.   
      
      
+2. .query() or filtering with `df[df[_condition_]]`: ????confirm with silke
