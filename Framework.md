@@ -12,14 +12,14 @@
 
     - Questions:   
         1: What factors contribute to higher rent?  
-            - neighborhood  
-            - property type  
-            - property type    
-            - room type  
-            - accomodates   
-            - bathroom: number of bathrooms, private or shared  
-            - bedroom: number of bedrooms, number of beds   
-            - amenities 
+                - neighborhood  
+                - property type  
+                - property type    
+                - room type  
+                - accomodates   
+                - bathroom: number of bathrooms, private or shared  
+                - bedroom: number of bedrooms, number of beds   
+                - amenities 
                
         2: when is the best time period to rent out the property based on the data from June 2022?  
     
