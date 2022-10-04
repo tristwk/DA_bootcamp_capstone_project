@@ -18,25 +18,16 @@
     1. Data Cleaning  
     2. Analysis: 
        - find out:     
-                1: What factors contribute to higher rent?          
-                   Variables: 
-                      - neighborhood  
-                      - property type  
-                      - room type  
-                      - accommodates   
-                      - bathroom: number of bathrooms, private or shared  
-                      - bedroom: number of bedrooms, number of beds   
-                 
-       - how:    
-                - heatmap for categorical data, violin plots,boxplots, scatter plots, 
- 
-                2: when is the best time period to rent out the property based on the data from June 2022? 
-       - Q2 Variables:            
-                - adjusted price
-                - date
-       - how:   
-                -       
-    4. visualization: tableau 
+           - What factors contribute to higher rent?              
+                Variables:   
+                    - neighborhood  
+                    - property type  
+                    - room type  
+                    - accommodates   
+                    - bathroom: number of bathrooms, private or shared  
+                    - bedroom: number of bedrooms, number of beds   
+                    
+    3. Dashboard construction: tableau 
       
 - Reference
     1. [H3geo](https://h3geo.org)
