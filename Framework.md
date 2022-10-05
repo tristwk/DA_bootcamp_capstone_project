@@ -29,11 +29,10 @@
                     
     3. Dashboard construction: tableau 
 
-- Presentation (5 mins): 
-    1. Objective
-    2. Process (a flow chart)
-    3. Results (dashboard)
-
+- Presentation (5 mins):  
+    - Objective  
+    - Process (a flow chart)   
+    - Results (dashboard)   
 
 - Reference
     1. [H3geo](https://h3geo.org)
