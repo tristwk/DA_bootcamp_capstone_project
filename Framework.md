@@ -12,7 +12,7 @@
     
 - Deleiverable:    
     - [ ] A dashboard tool to show what price the host should charge according to the the traits of their property
-    - [ ] Analysis to find out factors which have impact on rent price and use these factors as variables on the dashboard
+    - [ ] Analysis to find out factors that have impact on rent price and use these factors as variables on the dashboard
    
 - How: 
     1. Data Cleaning  
