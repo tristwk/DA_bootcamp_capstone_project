@@ -2,7 +2,7 @@
 
 - Subject: An analysis on Airbnb rent price in Berlin - data accquired in June 2022    
 
-- Objective: A recommendation for airbnb rent price based on the features of the property 
+- Objective: A recommendation for airbnb host on rent price based on features of the property 
 
 - Data source: [inside airbnb](http://insideairbnb.com)
     1. two datasets:   
@@ -12,7 +12,7 @@
     
 - Deleiverable:    
     - [ ] A dashboard tool to show what price the host should charge according to the the traits of their property
-    - [ ] Analysis to find out what factors contribute to higher rent price 
+    - [ ] Analysis to find out factors which have impact on rent price and use these factors as variables on the dashboard
    
 - How: 
     1. Data Cleaning  
@@ -28,7 +28,13 @@
                     - bedroom: number of bedrooms, number of beds   
                     
     3. Dashboard construction: tableau 
-      
+
+- Presentation (5 mins): 
+    1. Objective
+    2. Process (a flow chart)
+    3. Results (dashboard)
+
+
 - Reference
     1. [H3geo](https://h3geo.org)
     2. [EDA Video](https://www.youtube.com/watch?v=OY4eQrekQvs)
