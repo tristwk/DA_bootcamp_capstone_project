@@ -2,7 +2,7 @@
 
 - Subject: An analysis on Airbnb rent price in Berlin - data accquired in June 2022    
 
-- Objective: A recommendation for airbnb host on rent price based on features of the property 
+- Objective: A recommendation for airbnb hosts on rent price based on features of the property 
 
 - Data source: [inside airbnb](http://insideairbnb.com)
     1. two datasets:   
