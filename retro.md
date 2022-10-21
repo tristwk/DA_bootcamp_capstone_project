@@ -17,7 +17,11 @@
      [ ] Data Aggregation or create variables: extract a string, split columns, into booleans etc.   
      
      
-2. .query() or filtering with `df[df[_condition_]]`: ????confirm with silke  
+2. .query() or filtering with `df[df[_condition_]]`: data type has to be "string"
 
 3. Deal with null values before data aggregation or CASE(): if null values are included, the returned values could be incorrect  
-4.  
+
+4. presentation: 
+     - storytelling 
+     - sell your data project as a product 
+     - graphs need to be simple and clear, convey your message   
