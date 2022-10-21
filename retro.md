@@ -3,7 +3,7 @@
 
 #### Data Cleaning
 1. Set up a flow/SOP for Data cleaning process:   
-     [ ] import pandas or other packages  
+     [] import pandas or other packages  
      [ ] import data  
      [ ] Check info on the whole dataframe: `df.info()`, `df.shape`, `df.describe()`, `df.head()`  
      [ ] Check columns: `df.columns` modify columns' names into **lower case, _ instead of other signs**  
