@@ -1,4 +1,4 @@
-# nf_capstone_project
+# Capstone Project
 
 + A capstone project to showcase what I've learnt in an advanced data analytics bootcamp, including Python, SQL, Tableau and data anaysis approaches. 
 + Project overview: to understand what factors impact airbnb rent price in a data driven approach. These identified factors are used to provide airbnb hosts a price reference tool to optimise their pricing strategy.
